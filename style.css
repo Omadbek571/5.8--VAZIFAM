@@ -44,7 +44,7 @@
 
 }
 .carInfo{
-  max-height: 290px;
+  max-height: 320px;
 }
 .box2 {
   max-width: 1000px;
@@ -54,4 +54,16 @@
 }
 .img-item{
   border-radius: 10px;
+}
+.delete-btn{
+  margin-top: 10px;
+  display: flex;
+  text-align: center;
+  width: 30px;
+  border: none;
+  margin-inline: auto;
+
+}
+.list-item{
+  padding-top: 6px;
 }
